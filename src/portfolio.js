@@ -16,7 +16,7 @@ const greeting = {
   subTitle:
     "I am a fresher, freelancer and a software developer who crafts beautiful web and mobile applications. Specializing in maintaining perfect balance of technical & managerial skills. I tend to generally stands out from the crowd.",
   resumeLink:
-    "https://drive.google.com/file/d/1MkZIUzpiYIU78gu7_CVkf8T7XxU_UCNd/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1-79TQVc8ytUdPrAFPsb6d4HbroNjQ7Bx/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
